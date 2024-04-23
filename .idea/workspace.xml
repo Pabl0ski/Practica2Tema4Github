@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="408b6eba-6a2b-4204-881a-7723bf4d257e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="408b6eba-6a2b-4204-881a-7723bf4d257e" name="Changes" comment="Primera subida a Git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Perforce",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -42,11 +43,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713777676115</updated>
-      <workItem from="1713777677663" duration="828000" />
+      <workItem from="1713777677663" duration="1281000" />
     </task>
+    <task id="LOCAL-00001" summary="Primera subida a Git">
+      <created>1713855158414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713855158414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera subida a Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primera subida a Git" />
   </component>
 </project>
