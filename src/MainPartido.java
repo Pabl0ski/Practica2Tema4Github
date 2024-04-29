@@ -27,8 +27,8 @@ public class MainPartido {
                 //Jornadas n
 
                 //Jornada de copa 1
-                new Partido("RTV Roldan", "La Bocatelia Futsal", 1, 2, true, false)
-                new Partido("Alcorcon", "Mahadahonda", 2, 1, true, false)
+                new Partido("RTV Roldan", "La Bocatelia Futsal", 1, 2, true, false),
+                new Partido("Alcorcon", "Mahadahonda", 2, 1, true, false),
                 new Partido("Leganés", "Zaragoza", 3, 3, true, false
                 //Agregar mas partidos si es necesario
         };
