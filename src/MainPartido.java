@@ -72,7 +72,7 @@ public class MainPartido {
                     System.out.println("Opción incorrecta. Por favor, seleccione una opción válida.");
             }
         } while (opcion != 6);
-
+System.out.println("Esto es un cambio para poder hacer el punto 7 de la practica 2 del tema 4 de entornos");
 
     }
 
